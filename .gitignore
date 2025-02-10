@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython debug symbols
+cython_debug/
+
+# Environment variables
+.env
+*.env
+
+# Virtual environment directories
+venv/
+env/
+venv.bak/
+env.bak/
+
+# Python distribution
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+*.egg-info/
+
+# IDE or editor folders
+.vscode/
+.idea/
+
+# PyCharm specific
+.idea/
+
+# VS Code specific
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Testing
+nosetests.xml
+coverage.xml
+*.cover
+*.tox
+*.nox
+*.coverage
+*.hypothesis/
+
+# PyInstaller
+#  Typically ignored as it creates binaries
+#  https://pyinstaller.readthedocs.io/en/stable/spec-files.html
+*.spec
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pylint
+pylint-debug.log
+
+# Coverage reports
+*.lcov
+*.coverage
+
+# System files
+.DS_Store
+Thumbs.db
