@@ -1,0 +1,39 @@
+Raw Text from EasyOCR:
+গণপ্রজাতন্ত্রী বাংলাদেশ সরকার
+Govemment of the People's Republic of Bangladesh
+জাতীয় পরিচয়পত্র
+National ID Card
+ .; ?2' 2{:}7
+আহমদ আজঈন নেহাল
+Name
+AHIIED AJRIINE NEHAL
+পিতা
+মোঃ নিজাম উদ্দীন
+সরাতা
+মোসাঃ নাসরিন সরকার
+Date of Birth
+30 Apr 2001
+u
+NID No
+958 066 8839
+
+Raw Text from Tesseract:
+F oO. jetetwal Tertert AAT
+
+See \9f2 Ara / National ID Card
+SZ
+
+— ie yy "AHMED AJMINE NEHAL =
+
+: a Date of Birth 30 Apr 2001
+
+
+Merged Final Result:
+NameBn: 
+NameEn: Name not found
+FatherBn: পিতা
+MotherBn: 
+DOB: DOB not found
+ID: ID not found
+Father: Father not found
+Mother: Mother not found
