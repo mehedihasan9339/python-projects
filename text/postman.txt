@@ -1,0 +1,19 @@
+POST
+http://127.0.0.1:5000/summarize
+
+Content-Type: application/json
+
+{
+    "text": "Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals. Leading AI textbooks define the field as the study of 'intelligent agents': any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Colloquially, the term 'artificial intelligence' is often used to describe machines (or computers) that mimic cognitive functions that humans associate with the human mind, such as learning and problem-solving. AI has various subfields, including machine learning, where computers are taught to recognize patterns in data and make predictions or decisions based on that data. In addition to machine learning, there is natural language processing (NLP), which focuses on enabling machines to understand and interact with human language. Furthermore, robotics is an area of AI that involves creating intelligent machines capable of performing tasks that typically require human intervention, such as assembling products or navigating environments. AI is increasingly being integrated into various industries, including healthcare, finance, transportation, and entertainment. It has the potential to revolutionize these fields, offering new efficiencies and capabilities. However, AI also raises ethical concerns, such as privacy issues, job displacement due to automation, and the potential for biases in decision-making algorithms. As AI continues to evolve, society will need to address these concerns while harnessing its potential to improve various aspects of our lives. The future of AI holds exciting possibilities, from self-driving cars and personalized healthcare solutions to enhanced data analysis and the creation of fully autonomous systems capable of decision-making. Nonetheless, the challenges associated with AI, including the need for better regulatory frameworks and ensuring that AI systems are transparent and accountable, will be crucial to address as we move forward into this new technological era."
+}
+
+
+
+Response:
+{
+    "summary": " Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals . AI is increasingly being integrated into various industries, including healthcare, finance, transportation and entertainment . Future of AI holds exciting possibilities, from self-driving cars and personalized healthcare solutions to enhanced data analysis and the creation of fully autonomous systems ."
+}
+
+
+
+Request:
